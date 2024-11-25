@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Game;
+Encoding=UTF-8
+
+StartupNotify=true
+Terminal=false
+Type=Application
+X-Deepin-Vendor=user-custom
+
+Name=world_of_goo
+GenericName=world_of_goo
+Comment=world_of_goo
+
+Icon=~/Lizzy/world_of_goo/world_of_goo_appimage/game/icon.png
+Exec="~/Lizzy/world_of_goo/world_of_goo_appimage/game/world_of_goo.appimage"
